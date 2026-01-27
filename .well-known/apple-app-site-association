@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MU7CVW2SF4.com.ethanlopez99.coco",
+        "paths": [
+          "/app.html",
+          "/app.html/*",
+          "/"
+        ]
+      }
+    ]
+  }
+}

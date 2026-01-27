@@ -355,3 +355,31 @@ h1 {
     transform: translateY(0);
   }
 }
+
+.app-landing {
+  display: grid;
+  place-items: center;
+  padding: 80px 16px;
+}
+
+.app-landing-card {
+  max-width: 620px;
+  width: 100%;
+  background: var(--cloud);
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  box-shadow: 0 20px 50px var(--shadow);
+  display: grid;
+  gap: 18px;
+  text-align: left;
+}
+
+.app-landing .hero-actions {
+  margin-top: 6px;
+}
+
+.app-landing .fine-print {
+  margin: 0;
+  font-size: 14px;
+  color: rgba(30, 28, 22, 0.7);
+}
